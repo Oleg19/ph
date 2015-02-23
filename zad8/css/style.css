@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Sans;
+    font-style: normal;
+    font-size: 18px;
+
+}
+header, nav, section, aside, footer {
+    display: block;
+}
+
+.container {
+
+    margin: 0 auto;
+    border-radius: 10px;
+    background: #fffac4;;
+}
+
+.backgr {
+    margin: 10px;
+    height: 480px;
+    padding: 10px;
+    /*text-align: center;*/
+    border-radius: 5px;
+
+}
+
+.clr p {
+    color: red;
+}
